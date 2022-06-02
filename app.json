@@ -1,0 +1,12 @@
+{
+    "name": "humm",
+    "description": "humm",
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": ""        
+        }
+    },
+    "repository": "https://github.com/imjanindu/humm",
+    "stack": "container"
+}
